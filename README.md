@@ -5,10 +5,15 @@ DeepOlf identifies an odorant molecule (Problem A) and predicts its interaction 
 **DeepOlf Tutorial**
 
 Step 1: Install Anaconda3-5.2 or above
+
 Step 2: Install or upgrade following libraries (python, numpy, tensorflow, keras, scikit-learn)
+
 Step 3: Download and extract zipped file
+
 Step 4: Uncompress problemA_data.zip and problemB_data.zip files
+
 Step 5: Prepare input file (user_input.csv)
+
 Calculate molecular properties and fingerprints from SMILES or sdf format of a chemical compound using software’s like PaDel, alvaDesc (recommended), DRAGON, etc. and save as user_input.csv. 
 
 Keep the header information (first row) as such in input file.
